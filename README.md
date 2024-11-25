@@ -8,8 +8,8 @@
 
 ## Requeriments
 
-Node: v20.14.0
-NPM: 10.8.2
+- Node: v20.14.0
+- NPM: 10.8.2
 
 ## Installation
 
